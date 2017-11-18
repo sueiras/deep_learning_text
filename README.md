@@ -35,29 +35,3 @@ pip install pydot-ng
 pip install --upgrade https://storage.googleapis.com/tensorflow/windows/cpu/tensorflow-1.2.0-cp35-cp35m-win_amd64.whl
 pip install keras
 ```
-
-
-
-- Install anaconda. 
-  - Optional, install jupyter extensions
-  ```
-  conda install conda_nb
-  ```  	
-- Create the environment
-
-```
-conda create -n tm python=3.5
-source activate tm
-
-conda install graphviz
-conda install pandas scikit-learn
-conda install jupyter
-conda install matplotlib
-pip install h5py
-pip install pydot-ng
-pip install nltk
-pip install --upgrade gensim
-pip install --ignore-installed --upgrade tensorflow
-pip install keras
-```
-
