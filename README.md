@@ -1,10 +1,10 @@
 # Deep Learning for Finance
 
 Code examples for the course of Deep Learning for Finance
-- 01 Intro to Keras
-- 02 Credit scoring
-- 03 Time series forecasting
-- 04 RNN whit Keras for Sentiment model
+- 00 Intro to Keras
+- 01 Credit scoring
+- 02 Time series forecasting
+- 03 RNN whit Keras for Sentiment model
 
 
 # Anaconda environment in windows
