@@ -31,6 +31,7 @@ conda install -c anaconda jupyter
 conda install matplotlib
 conda install pillow 
 pip install h5py
+pip install nltk
 pip install pydot-ng
 pip install --upgrade https://storage.googleapis.com/tensorflow/windows/cpu/tensorflow-1.2.0-cp35-cp35m-win_amd64.whl
 pip install keras
