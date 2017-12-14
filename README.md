@@ -1,6 +1,15 @@
-# Deep learning use case
+# Deep learning use cases
 
-Sentiment analysis and word tagging
+Included 4 uses cases:
+
+1.- Language model at character level
+
+2- Word tagging
+
+3.- Sentiment analysis with Recurrent Neural Networks
+
+4.- Sentiment analysis with Convolutional Neural Networks
+
 
 
 # Anaconda environment
@@ -32,6 +41,8 @@ pip install keras
 ```
 
 # Download the next linguistic resources from the web:
-  - Sentiment corpus: [https://s3-eu-west-1.amazonaws.com/text-mining-course/aclImdb.zip]()
-  - ATIS database: [https://s3-eu-west-1.amazonaws.com/text-mining-course/atis.zip]()
-  - Glove embeddings: [https://s3-eu-west-1.amazonaws.com/dl-finance-course/glove.6B.100d.txt.zip]()
+  - Sentiment corpus: https://s3-eu-west-1.amazonaws.com/text-mining-course/aclImdb.zip
+  - ATIS database: https://s3-eu-west-1.amazonaws.com/text-mining-course/atis.zip
+  - Glove embeddings: https://s3-eu-west-1.amazonaws.com/dl-finance-course/glove.6B.100d.txt.zip
+  - Quijote: http://www.gutenberg.org/cache/epub/2000/pg2000.txt
+  - Pretrained language model for Quijote: https://s3-eu-west-1.amazonaws.com/text-mining-course/text_generation_model1024.h5
